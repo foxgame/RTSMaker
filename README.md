@@ -122,9 +122,12 @@ Xiao：资深管家。
 联系方式
 
 网址: 
-http://wwww.hutugames.com
+http://www.hutugames.com
 
 QQ: 1652009863
 
 邮箱: 1652009863@qq.com
+
 手机：18027228902
+
+广州狐兔网络科技 谢生
