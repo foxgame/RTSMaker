@@ -36,15 +36,12 @@ stage 2.We’ll make all models and skins that can be used for publishing.
 
 This stage may require a lot of money, and we are not sure how long time it will be completed.
 
-stage 
-
-3.We will develop battle platforms like Blizzard’s Battle.net.
+stage 3.We will develop battle platforms like Blizzard’s Battle.net.
 All open source.
 
 
 If you are interested in this, or can provide help, whether it is technology or funds,
 please contact us.
-
 
 
 email: refox0@sina.com.cn / 1652009863@qq.com (Chinese/English)
