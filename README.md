@@ -109,6 +109,7 @@ http://game-1251265294.file.myqcloud.com/WarCraft3 MapViewer.zip
 
 团队成员
 Fox：05年入职北京金山软件的老程序。
+PRINCE2从业认证，系统集成项目管理师。
 
 BadWeather：资深老策划。
 
@@ -130,4 +131,4 @@ QQ: 1652009863
 
 手机：18027228902
 
-广州狐兔网络科技 谢生
+谢生
