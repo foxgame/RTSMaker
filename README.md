@@ -44,14 +44,15 @@ If you are interested in this, or can provide help, whether it is technology or 
 please contact us.
 
 
-email: refox0@sina.com.cn / 1652009863@qq.com (Chinese/English)
+wechat:fox526594
 
 address: GuangZhou China.
 
 
 
+W3Rebuild old version：
 
-
+https://github.com/foxgame/W3Rebuild
 
 
 
@@ -106,3 +107,7 @@ http://game-1251265294.file.myqcloud.com/WarCraft3 MapViewer.zip
 
 业务联系方式
 微信：fox526594
+
+旧版本项目源码：
+
+https://github.com/foxgame/W3Rebuild
