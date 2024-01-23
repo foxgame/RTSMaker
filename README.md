@@ -104,31 +104,5 @@ http://v.youku.com/v_show/id_XMzkyMDYwNzc1Ng==.html
 
 http://game-1251265294.file.myqcloud.com/WarCraft3 MapViewer.zip
 
-
-
-
-团队成员
-Fox：05年入职北京金山软件的老程序。
-PRINCE2从业认证，系统集成项目管理师。
-
-BadWeather：资深老策划。
-
-Xiao：资深管家。
-
-
-
-我们只找真正懂这个项目价值的投资者。
-
-
-联系方式
-
-网址: 
-http://www.hutugames.com
-
-QQ: 1652009863
-
-邮箱: 1652009863@qq.com
-
-手机：18027228902
-
-谢生
+业务联系方式
+微信：fox526594
